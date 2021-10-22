@@ -14,5 +14,6 @@ public class cao1 {
         System.out.println("忒忒".hashCode());
         System.out.println("重地".hashCode());
         System.out.println("通话".hashCode());
+        System.out.println("hot-fix修改");
     }
 }
